@@ -12,7 +12,7 @@ body {
 
 /* --- CABEÇALHO --- */
 header {
-    background-color: #0f3d12; /* Laranja avermelhado */
+    background-color: #0f3d12; /* <- COR ALTERADA AQUI */
     color: white;
     text-align: center;
     padding: 2rem 1rem;
